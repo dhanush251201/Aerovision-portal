@@ -1,0 +1,136 @@
+[
+    {
+        "team-name": "tech tr\u0065\u0301s",
+        "team-members": [
+            {
+                "roll": "22PC05",
+                "name": "Ananthalakshmy  N M"
+            },
+            {
+                "roll": "22PC26",
+                "name": "Praveshini  S B"
+            },
+            {
+                "roll": "22PC29",
+                "name": "Samrithi  V"
+            }
+        ],
+        "solved": [],
+        "points": 0
+    },
+    {
+        "team-name": "zeroGravity",
+        "team-members": [
+            {
+                "roll": "21L440",
+                "name": "Prasanna Kumar  S"
+            },
+            {
+                "roll": "21L442",
+                "name": "Ramya  J"
+            }
+        ],
+        "solved": [],
+        "points": 0
+    },
+    {
+        "team-name": "Rem",
+        "team-members": [
+            {
+                "roll": "20PC07",
+                "name": "Arun Prasath S"
+            }
+        ],
+        "solved": [],
+        "points": 0
+    },
+    {
+        "team-name": "w01f",
+        "team-members": [
+            {
+                "roll": "20PC06",
+                "name": "Anantha Vijay M"
+            }
+        ],
+        "solved": [],
+        "points": 0
+    },
+    {
+        "team-name": "bones",
+        "team-members": [
+            {
+                "roll": "20PC04",
+                "name": "Amutheshwar C K P"
+            }
+        ],
+        "solved": [],
+        "points": 0
+    },
+    {
+        "team-name": "BenArctic",
+        "team-members": [
+            {
+                "roll": "20P101",
+                "name": "Aathi  R"
+            }
+        ],
+        "solved": [],
+        "points": 0
+    },
+    {
+        "team-name": "Anonymous",
+        "team-members": [
+            {
+                "roll": "22I269",
+                "name": "Tejasri  K"
+            },
+            {
+                "roll": "22I266",
+                "name": "Sriya Santhanam"
+            }
+        ],
+        "solved": [],
+        "points": 0
+    },
+    {
+        "team-name": "HoneyLoops",
+        "team-members": [
+            {
+                "roll": "20Z222",
+                "name": "Jeyam Palaniappan  D"
+            },
+            {
+                "roll": "20Z209",
+                "name": "Ashwin Kumar  T G"
+            }
+        ],
+        "solved": [],
+        "points": 0
+    },
+    {
+        "team-name": "0rgT3aM",
+        "team-members": [
+            {
+                "roll": "20Z214",
+                "name": "Dhanush G."
+            },
+            {
+                "roll": "21Z258",
+                "name": "NextGen"
+            }
+        ],
+        "solved": [],
+        "points": 0
+    },
+    {
+        "team-name": "DarkHunter",
+        "team-members": [
+            {
+                "roll": "21Z202",
+                "name": "~iHuntTheDarkness~"
+            }
+        ],
+        "solved": [],
+        "points": 0
+    }
+]

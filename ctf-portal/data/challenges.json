@@ -1,0 +1,258 @@
+[
+    {
+        
+        "name":"Init",
+        "flags":["Aerovision{We1c0m3t0@eR0v1$1on}"],
+        "points":10,
+        "link":"",
+        "description":"Welcome to Aerovision"
+    },
+    {
+        
+        "name":"12_more_times",
+        "flags":["Aerovision{th1s_w4s_h4rd}"],
+        "points":10,
+        "link":"",
+        "description":"12 more times"
+    },
+    {
+        
+        "name":"01101000_01101001",
+        "flags":["Aerovision{flag-th1s-1s-1t}"],
+        "points":10,
+        "link":"",
+        "description":"Decrypt the given binary and get your flag. 10010100 11000111 11100110 11010110 10110111 11010101 10100100 10110110 11100110 01010101 00110100 11010110 01010100 11110000 10110101 10110101 10010101 10010111 10100111 10100110 10010101 00110100 10000100 11010110 01010101 00110100 11100110"
+    },
+    {
+        
+        "name":"DecryptMe",
+        "flags":["Aerovision{3ag13-3y3d prot3ction}"],
+        "points":20,
+        "link":"",
+        "description":"Decrypt the text to find the key and use it to find the flag."
+    },
+    {
+        
+        "name":"MorseCode",
+        "flags":["Aerovision{d4ng3r533kh31p}"],
+        "points":30,
+        "link":"",
+        "description":"In the year 2023, airplanes had become marvels of engineering, fully automated and integrated with the latest cybersecurity protocols to ensure passenger safety. However, even the most sophisticated systems could still be vulnerable in unexpected ways."
+    },
+    {
+        
+        "name":"QRCode",
+        "flags":["Aerovision{flightticket}"],
+        "points":20,
+        "link":"",
+        "description":"QR Codes are given. Find the flag performing any operation you want."
+    },
+    {
+        
+        "name":"TryMe",
+        "flags":["Aerovision{1m_tH3_4lag}"],
+        "points":20,
+        "link":"",
+        "description":"Use the pyhton script to find the flag"
+    },
+    {
+        
+        "name":"Leaky",
+        "flags":["Aerovision{I_love_Bombs}"],
+        "points":30,
+        "link":"",
+        "description":"Oh No!!! Aerovision has accidentally leaked its secure database...jk, Oppenheimer has forgot his password..help him find it. Don't Worry The passwords exist on the same line corresponding to the respective username in the text files."
+    },
+    {
+        
+        "name":"YouCompleteMe",
+        "flags":["Aerovision{Iamh2vin8gsOmuC4Fxun}"],
+        "points":20,
+        "link":"",
+        "description":"Complete me to get what you want. Here's what you need to decode 'Osfcjwgwcb{Woav2jwb8ugCaiQ4Tlib}' Complete the function left incomplete and pass the above enrypted text as the text to decrypt."
+    },
+    {
+        
+        "name":"Dassault_Rafael",
+        "flags":["Aerovision{\"cyber espionage\"}"],
+        "points":20,
+        "link":"",
+        "description":"Given the image, process it to unveil the secrets. Vision is the art of seeing which is invisible to others"
+    },
+    {
+        
+        "name":"Enigma",
+        "flags":["Aerovision{Enigma_Cipher_123}","Aerovision{Enigma_Decoder_456}"],
+        "points":30,
+        "link":"",
+        "description":"You've intercepted an encrypted message and learned that it's encoded using a modified Enigma cipher. To decrypt the message, implement the `enigma_decrypt` function by replacing each letter in the encrypted message with its corresponding letter in the key. Decrypting the given message with the provided key will reveal the first flag. The decrypted message itself holds the second flag."
+    },
+    {
+        
+        "name":"find_the_code",
+        "flags":["AeroCTF(flag-a323bh4j)"],
+        "points":20,
+        "link":"",
+        "description":"Find the flag using the jar file :D"
+    },
+    {
+        
+        "name":"Corx1upted",
+        "flags":["Aerovision{YupxImxThexFlag}"],
+        "points":30,
+        "link":"",
+        "description":"I may look cool. But deep inside i am corrupted :("
+    },
+    {
+        
+        "name":"F_in_the_chat",
+        "flags":["Aerovision{skynetisactive}"],
+        "points":30,
+        "link":"",
+        "description":"Make Sure To Read Fullyyyyy"
+    },
+    {
+        
+        "name":"itshot",
+        "flags":["Aerovision{Dxmn_u_fvnd_mua}"],
+        "points":20,
+        "link":"",
+        "description":"Ever heard of metadata?"
+    },
+    {
+        
+        "name":"AEROPLANE",
+        "flags":["Aerovision{1_r34lly_H0p3_u_d0n't_f1nd_m3}"],
+        "points":40,
+        "link":"",
+        "description":"I like the song Aeroplanes by B.o.B very much that I decided to modify the lyrics relating to myself. Find the clue within the modified lyrics."
+    },
+    {
+        
+        "name":"Base64",
+        "flags":["Aerovision{cy63r41ycHa113ng3}"],
+        "points":30,
+        "link":"",
+        "description":"Use base64.txt file to find the flag."
+    },
+    {
+        
+        "name":"FindMe",
+        "flags":["Aerovision{c0ck91t}"],
+        "points":10,
+        "link":"",
+        "description":"Find the flag hidden within the image."
+    },
+    {
+        
+        "name":"WhatsInsideMe",
+        "flags":["Aerovision{mersenneprime}"],
+        "points":30,
+        "link":"",
+        "description":"You are given the 3 main parts of the aeroplane- the front, the wings/windows and the tail. Analyse each picture and find the flag. HINT: The clue you get is the eighth _____________ (without spaces-all lowercase) Solution for the hosts Open each of the images in a text editor like NotePad. The last line in the content displayed is the text that has been encrypted. Combine the three parts to get an alphabetic string. Use alphabetical rank to convert it into a numerical form. Google search the number and you'll get the flag. Wrap it around by Aerovision{flag}."
+    },
+    {
+        
+        "name":"its_about_flow",
+        "flags":["Aerovision{visio_protectoris}"],
+        "points":10,
+        "link":"",
+        "description":"\"Amper\" has given you a break.He announced, 'From the \"class\" go to have \"Orthosiphon aristatus\" tea to \"get back \" your original energy. It lets you see an \"order\" in everything you see.' Once you're done with it, keep in mind that examiner understands only words but not numbers so make lt the c,cyber the o. (optional)"
+    },
+    {
+        
+        "name":"Julius_message",
+        "flags":["Aerovision{\"fly safe, be cybersecure\"}"],
+        "points":20,
+        "link":"",
+        "description":"You're ready to board the flight. Julius is waving Good-Bye by hand. You've noticed an indirect message written on his hand. Crack the code of Julius' message to unveil its concealed insight."
+    },
+    {
+        
+        "name":"Just_a_dot",
+        "flags":["Aerovision{3nh4nc3d_24374675}"],
+        "points":20,
+        "link":"",
+        "description":"You have an image, and the flag is hidden in there somewhere, the clue is that its hidden deep within, like really deep within the file. Another clue is figure out how svgs are stored you need to go deep within its roots."
+    },
+    {
+        
+        "name":"Knock_on_numbers",
+        "flags":["Aerovision{tH3_31ff3l_t0w3r}"],
+        "points":10,
+        "link":"",
+        "description":"You are given two numbers: 48.8584, 2.2945.\"Crack the cryptic code given through this Digits,to Reveal the Concealed Clue\"- says Flag"
+    },
+    {
+        
+        "name":"Numerical Maze Solver",
+        "flags":["Aerovision{Maze_Solver_111}","Aerovision{Maze_Master_222}"],
+        "points":30,
+        "link":"",
+        "description":"Welcome to the Numerical Maze Solver challenge! Your task is to navigate through a complex maze represented as a 2D array. The maze contains walls, paths, a start point, and an exit point. Write a JavaScript function named `maze_solver` that takes the maze layout as input and returns an array of coordinates representing the path to reach the exit from the start point."
+    },
+    {
+        
+        "name":"Retrieve_my_forebearer",
+        "flags":["Aerovision{Fly Risk free}"],
+        "points":10,
+        "link":"",
+        "description":"Class file... interesting..."
+    },
+    {
+        
+        "name":"scaryy",
+        "flags":["Aerovision{T1isd_oe5nt_mxke_5en5e}"],
+        "points":10,
+        "link":"",
+        "description":"stegANOGRAPHY IS THE ART OF hideING SECRET DATA WITHIN AN ORDINARY FILE. On Another note, keeping your password as password is really dumb."
+    },
+    {
+        
+        "name":"Scavenger Hunt",
+        "flags":["Aerovision(4ll-th4t-w0rk-f0r-th1s)"],
+        "points":10,
+        "link":"",
+        "description":"You are given a maze, although its a straight line theres a lot of decoys on the way, navigate your way to the right folder, hints are probably in a couple of folders and they may or may not be in a file. The flag would be found in a folder with a single file."
+    },
+    {
+        
+        "name":"This_is_a_plane",
+        "flags":["AeroCTF{flag-a23hfi4}"],
+        "points":30,
+        "link":"",
+        "description":"You have an image, and the flag is hidden in there somewhere, the clue is that its hidden deep within, like really deep within the file."
+    },
+    {
+        
+        "name":"GuardianFlight",
+        "flags":["Aerovision{f1igHt_gu4rd}"],
+        "points":10,
+        "link":"http://ec2-13-233-16-102.ap-south-1.compute.amazonaws.com:7100",
+        "description":"The given is a standard website for cybersecurity solutions regarding aviation. Run through it to find the flag."
+    },
+    {
+        
+        "name":"Inspect",
+        "flags":[""],
+        "points":10,
+        "link":"http://ec2-13-233-16-102.ap-south-1.compute.amazonaws.com:7101",
+        "description":"You're taking a flight now. To have a safe and secure journey, find the flag hidden within this page."
+    },
+    {
+        
+        "name":"Login%",
+        "flags":["Aerovision{SqLIsTheBest}"],
+        "points":10,
+        "link":"http://ec2-13-233-16-102.ap-south-1.compute.amazonaws.com:7102",
+        "description":"'tom' a user wants to find the flag. He knows two things for sure: 1. His password is not the flag. 2. Someone else's password is the flag. Also tom knows how the flag looks like."
+    },
+    {
+        
+        "name":"webhunt",
+        "flags":["Aerovision{u_40und_m3}"],
+        "points":10,
+        "link":"http://ec2-13-233-16-102.ap-south-1.compute.amazonaws.com:7103",
+        "description":"Do you like treasure hunt? Are you ready to go on a web hunt? Here you go with your HTML file. Use it and decrypt your flag."
+    }
+]
